@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for downloading !
 
-Template Name: TheEvent
-Template URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
+Template Name: KHRP
+Template URL: https://bootstrapmade.com/thekhrp-conference-event-bootstrap-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
